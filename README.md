@@ -11,3 +11,4 @@ this repository contains my assignments
 
 [final python assignment](https://github.com/lukaknoops/assignments/blob/master/1.%2BFinal_Assignment_Python_1_students%2B%25282%2529.ipynb)
 
+[final R assignment](https://github.com/lukaknoops/assignments/blob/master/1.%2BOECD_R_exam%2B%25281%2529.ipynb)
